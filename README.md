@@ -1,3 +1,18 @@
+# Oppgaver med løkker
+
+Åpne `index.html` i en nettleser og bruk knappene for hver oppgave. Resultatet vises i siden.
+
+- Passord i løsningene: `hemmelig` (endre i `code.js` hvis du vil).
+- Filene du trenger: `index.html` og `code.js`.
+
+Kort oversikt over funksjonene i `code.js`:
+
+- `oppgave1a()` — while 1→10
+- `oppgave1b()` — for 1→10
+- `oppgave2a()` — passord (gjenta til riktig)
+- `oppgave2b()` — passord (maks 3 forsøk)
+- `oppgave3()` — velg "oddetall" eller "partall" (0→100)
+- `oppgave4()` — gangetabell 1→10
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xXv2nSQT)
 # Oppgaver med løkker
 
@@ -15,4 +30,7 @@
 Lag et program der brukeren kan velge mellom oddetall og partall, og programmet skriver ut alle oddetall eller partall fra 0 til 100.
 
 ## Oppgave 4: 
+
+For å kjøre løsningene åpne `index.html` i en nettleser og bruk knappene for hver oppgave.
+
 Lag et program som skriver ut gangetabellen. Hint: Her må du bruke to for-løkker.
